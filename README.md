@@ -1,5 +1,9 @@
 ## MLOps with SageMaker Pipelines
-This repository contains two Jupyter notebooks that demonstrate the use of Amazon SageMaker Pipelines for building and deploying machine learning models. The two pipelines covered are:
+This repository contains two Jupyter notebooks that demonstrate the use of Amazon SageMaker Pipelines for building and deploying machine learning models. 
+The dataset used in the training pipeline customer churn dataset. Customer churn refers to the phenomenon where customers stop doing business with a company or service. Churn prediction aims to identify customers who are likely to leave the company so that proactive measures can be taken to retain them.
+
+
+The two pipelines covered are:
 
 - Training Pipeline
 - Inference Pipeline
